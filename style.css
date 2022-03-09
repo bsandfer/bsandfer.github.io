@@ -32,3 +32,33 @@ a {
     background-image: url(./images/greengrass.jpeg);
     
 }
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+#screenshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+  }
